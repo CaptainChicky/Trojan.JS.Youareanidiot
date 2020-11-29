@@ -15,7 +15,7 @@ There was this internet page in like 2006 where if you went on there you would b
 
 Suggestion: Try in a VM. If not, make sure to have task manager at the ready or u will be met with very "cool" stuff :).
 
-I would suggest you try this in a browser that will not block flash(i.e. Internet Explorer, or Firefox 2016- portable from portableapps.com. BTW link will probs be dead so PM me or sth for me to give you a torrent of a download of the portable forefox), and have ActiveX scripting enabled without prompt. 
+I would suggest you try this in a browser that will not block flash(i.e. Internet Explorer, or Firefox 2016- portable from portableapps.com. BTW link will probs be dead so PM me or sth for me to give you a torrent of a download of the portable forefox), and have ActiveX scripting enabled without prompt. Just as a note, IE will work majestically. Firefox 2016- Portable will be less effective at showing the effect of the you.js.
 
 # Browser setup
 For Internet Explorer(preferrably 11): Go to settings, click on advanced, scroll down to security, and check the box that says, "allow active content to run in files on my computer". Then go to the pricacy tab and disable the pop-up blocker. Lastly, install flash plugin(haha RIP 2021 people).
