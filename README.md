@@ -1,5 +1,5 @@
 # What is Trojan.JS.Youareanidiot?
-This is the meaning of life. See https://www.youtube.com/watch?v=LSgk7ctw1HY for a demonstration.
+This is the meaning of life. See https://www.youtube.com/watch?v=LSgk7ctw1HY for a demonstration. If link is broken(i.e. video/youtube account ded) message me for torrent of video.
 
 # What this contains
 This repository contains 2 folders. 
