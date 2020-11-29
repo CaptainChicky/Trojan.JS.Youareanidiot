@@ -4,7 +4,7 @@ This is the meaning of life. See https://www.youtube.com/watch?v=LSgk7ctw1HY for
 # What this contains
 This repository contains 2 folders. 
 
-One is the "offline" version, where all(haha "all") of the required files and flash installer are supplied withing the "name_files" folder the html is referenced to. Of course, the embeds are broken, so add ur own site and links to the idiot.png embed for cool sharing embeds. I've put that part in a comment bracket so it should be pretty obvious to spot and edit.
+One is the "offline" version, where all(haha "all") of the required files and flash installer are supplied withing the "name_files" folder the html is referenced to. Of course, the meta embeds are broken, so add ur own site and links to the idiot.png embed for cool sharing embeds. I've put that part in a comment bracket so it should be pretty obvious to spot and edit.
 
 The second is the "online" versions, which does not contain the required flash installers and idiot.png for reference from the html. Instead it links to the online flash macromedia installers which will probably be broken in a few months(2021 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa). idiot.png is included in a imgbb link which will probably die in a few years. OFC the home page meta is still in comments for obvious reasons. Should be also pretty obvious to edit.
 
