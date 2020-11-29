@@ -11,6 +11,8 @@ The second is the "online" versions, which does not contain the required flash i
 Your antivirus will probs remove you.js as malware so turn off ur antivirus when extracting and keep it in a safe place where antivirus cant touch it.
 
 # Overview
+There was this internet page in like 2006 where if you went on there you would be greeted with the meaning of life(you are an idiot). This is a recreation of the webpage(preferrably for windows 10 I suppose lol).
+
 Suggestion: Try in a VM. If not, make sure to have task manager at the ready or u will be met with very "cool" stuff :).
 
 I would suggest you try this in a browser that will not block flash(i.e. Internet Explorer, or Firefox 2016- portable from portableapps.com. BTW link will probs be dead so PM me or sth for me to give you a torrent of a download of the portable forefox), and have ActiveX scripting enabled without prompt. 
