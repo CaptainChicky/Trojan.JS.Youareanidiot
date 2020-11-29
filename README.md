@@ -8,6 +8,8 @@ One is the "offline" version, where all(haha "all") of the required files and fl
 
 The second is the "online" versions, which does not contain the required flash installers and idiot.png for reference from the html. Instead it links to the online flash macromedia installers which will probably be broken in a few months(2021 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa). idiot.png is included in a imgbb link which will probably die in a few years. OFC the home page meta is still in comments for obvious reasons. Should be also pretty obvious to edit.
 
+Your antivirus will probs remove you.js as malware so turn off ur antivirus when extracting and keep it in a safe place where antivirus cant touch it.
+
 # Overview
 Suggestion: Try in a VM. If not, make sure to have task manager at the ready or u will be met with very "cool" stuff :).
 
