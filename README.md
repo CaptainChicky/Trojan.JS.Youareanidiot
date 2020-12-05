@@ -36,8 +36,6 @@ Turn off antivirus. Download the code in this repository and unzip it into a fol
 # AAAAAAAAAAAAAAAAAAAHHHHH!!! HELP!!! HOW DO I STOP BECOMING IDIOT?!?!?!
 You can't. :-)
 
-
-
 <sup>jkjkjk just use task manager to close the broswer(iexplorer.exe or firefox.exe or something like that). I suggest you open task manager before openning the Idiot!.html tho cause it will be hard to open task manager with the windows flying.<sup>
 
 # It's 2021. How to get it to work?
@@ -48,5 +46,4 @@ You can't. :-)
 # Disclaimer!!!
 Everything here in this repository has been made for educational purposes, with the more destructive aspects of it assumed to only be viewed and/or ran in a controlled testing environment only. I do ***NOT*** enourage people to do something like this themselves/to themselves. ***NEVER*** use malware, or anything that is, but no limited to, malware, anything remotely capable of destroying computers, or even "joke programs" *on your own or other people's computers*, not even with their consent, as this can have bad, unforeseen consequences.
 
-***Disclaimer for unprofessionalism.***
-I have no idea what most things are on github(I am new 😉), so if I make something wrong or break something, I dont care 🙄.
+***Disclaimer for unprofessionalism:*** I have no idea what most things are on github(I am new 😉), so if I make something wrong or break something, I dont care 🙄.
