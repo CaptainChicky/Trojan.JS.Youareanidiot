@@ -1,5 +1,5 @@
 # What is Trojan.JS.Youareanidiot?
-Trojan.JS.Youareanidiot is the literal meaning of life(along with 42 ofc). See https://www.youtube.com/watch?v=LSgk7ctw1HY for a demonstration. If link is broken(i.e. video/youtube account associated with the video dies) message me for torrent/download of said video.
+Trojan.JS.Youareanidiot is the literal meaning of life(along with 42 ofc). See [danooct1's video](https://www.youtube.com/watch?v=LSgk7ctw1HY) for a demonstration. If link is broken(i.e. video/youtube account associated with the video dies) message me for torrent/download of said video.
 
 # What this repository contains...
 This repository contains 2 folders. 
