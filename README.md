@@ -33,7 +33,7 @@ You can't. :-)
 jkjkjk just use task manager to close the broswer(iexplorer.exe or firefox.exe or something like that). I suggest you open task manager before openning the Idiot!.html tho cause it will be hard to open task manager with the windows flying.
 
 # It's 2021. How to get it to work?
-Internet Explorer: uninstall the remove flash update. If u cant because you installed windows with media made after 2020 then sucks to be u ¯\_(ツ)_/¯.
+Internet Explorer: uninstall the remove flash update. If u cant because you installed windows with media made after 2020 then sucks to be u ¯\\_(ツ)_/¯.
 
 Firefox 2016- portable: ur good. If u dont have it then message me for a torrent of the files or something but idk tbh.
 
