@@ -36,7 +36,7 @@ Turn off antivirus. Download the code in this repository and unzip it into a fol
 
 ***HOWEVER***, if you try to exit out of the tab with the shortcuts ctrl+w, alt+f4, or press the delete button, a cute little alert will intercept that shortcut with the message of "You are an idiot" (no closing tabs 4 u haha), and then wallah!, 4 more bouncy tabs telling that you are an idiot will appear.
 
-# AAAAAAAAAAAAAAAAAAAHHHHH!!! HELP!!! HOW DO I STOP BECOMING IDIOT?!?!?!
+# AAAAAAAHHH! HELP! HOW DO I STOP BECOMING IDIOT?!?
 You can't. :-)
 
 <sup>jkjkjk just use task manager to close the broswer (iexplorer.exe or firefox.exe or something like that). I suggest you open task manager before openning the Idiot!.html tho cause it will be hard to open task manager with the windows flying. You can also use the terminal with the taskkill command.<sup>
