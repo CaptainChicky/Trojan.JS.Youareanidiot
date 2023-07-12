@@ -22,7 +22,7 @@ There was this internet page in around 2006 (youareanidiot.org, check on archive
 
 *Results after testing both browsers*: 
   - After installing the Flash plugin and calibrating Internet Explorer 11.630.19041.0 to allow all local ActiveX scripts to run without prompt, it works majestically. The Flash embed will play while the windows itself will bounce around, and after waiting a few seconds, a group of new, small tabs will appear and bounce around the screen with the same flash embed. If the user decides to use the ctrl+w or the alt+f4 shortcuts to close the windows(or press ctrl, alt, w, or f4 independently), a popup will appear with the message of "you are an idiot", and after closing will spawn a group of small tabs that bounce and have the Flash embed. If things get too clutterred, one can close iexplorer.exe with task manager.
-  - 
+   
   - Firefox 45.6.0 (or any lower version) Portable will be less effective at showing the effect of the you.js. After installing the Flash Plugin, and tweaking a few settings to allow ActiveX, openning Idiot!.html will open with the flash embed without bouncing around. After waiting a few seconds, a few medium-large tabs will appear, Flash embeds playing, and 3-4 small tabs with the Flash embeds will appear and bounce around. Attempting to close these tabs with the shortcuts ctrl+w or alt+f4 will actually close them without initiating the message "you are an idiot" and subsequent popups resulting from closing the message. These shortcuts will not work on the main page when you.js is not making new popups, but during the process when it is making new popups, it is succeptible to the close tab shortcuts.
 
 # Browser setup.
