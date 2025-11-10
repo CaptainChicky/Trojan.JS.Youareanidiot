@@ -1,6 +1,8 @@
 # **NOTICE**
 Flash has been broken since the end of 2020. I've made a very comprehensive writeup and recreation of this trojan on my website here *https://theaviary.me/Idiot!/*. If you want the files, just wget mirror the website directory (you probably dont want the overview page, but the recreations page... you'll get what I mean when you go there lol) and you can probably grab everything there that you need. Note that in the writeup isn't just the original flash as you see here but an actual html5 recreation that works on IE, and sort of works on modern browsers :)
 
+Update 2025: Lmfao Internet Explorer is also gone from windows. Well, there's methods to get it back, so just google it ig. Man time flies
+
 # What is Trojan.JS.Youareanidiot?
 Trojan.JS.Youareanidiot is the literal meaning of life (along with 42 ofc). See [danooct1's video](https://www.youtube.com/watch?v=LSgk7ctw1HY) for a demonstration. If link is broken (i.e. video/youtube account associated with the video dies), use *archive.org*. If all comes to naught just message me and I'll send you a torrent/download of it ig.
 
