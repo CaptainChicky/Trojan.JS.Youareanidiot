@@ -1,5 +1,5 @@
 # **NOTICE**
-Flash has been broken since the end of 2020. I've made a very comprehensive writeup and recreation of this trojan on my website here *https://theaviary.me/Idiot!/*, and endermanch has also made his own version here *https://www.youareanidiot.cc/* which is also decently faithful to the original (direct link to the "virus", so open with care).
+Flash has been broken since the end of 2020. I've made a very comprehensive writeup and recreation of this trojan on my website here *https://captainchicky.github.io/Idiot!/*, and endermanch has also made his own version here *https://www.youareanidiot.cc/* which is also decently faithful to the original (direct link to the "virus", so open with care).
 
 If you want the files of the html5 recreation (and not just the flash version archived here), just wget mirror the recreation link once you have copied the link from my writeup and grab everything there that you need (or wait until i eventually add a download to the full zip ngl). 
 
@@ -49,7 +49,7 @@ You can't. :-)
 <sup>jkjkjk just use task manager to close the broswer (iexplorer.exe or firefox.exe or something like that). I suggest you open task manager before openning the Idiot!.html tho cause it will be hard to open task manager with the windows flying. You can also use the terminal with the taskkill command.<sup>
 
 # It's 2021. How to get it to work?
-I give a comprehensive overview on how to get it working on my website *https://theaviary.me/Idiot!/*.
+I give a comprehensive overview on how to get it working on my website *https://captainchicky.github.io/Idiot!/*.
 
   - Internet Explorer: Uninstall the remove flash disabling update. I believe in you that if you got windows before 2021 you will eventually find a way to revert it. If you can't because you installed Windows with media made after 2020 then sucks to be you I guess ¯\\\_(ツ)\_/¯, simply find an install that has flash enabled xd. I really should emphasize that for best effect, figure out a way to get flash working on an IE version, this genuinly should not be too difficult to do, hell use a VM of an old windows version if you aren't able to find any windows 10 version supporting flash and has IE lol.
 
